@@ -1,0 +1,1 @@
+This toolbox is used for interpreting english alphabets from braille images. Useful to understand messages written by visually impaired individuals without manual reading. Uses regression algorithm to train and understand the braille characters. 
